@@ -1,4 +1,4 @@
-# Image-Compression-K-Means
+# Image Compression with K-Means Clustering
 
 - So this project basically does the compression of images based on colors.
 - By millions of colors in images this will reduce that colors to your desired value of colors.
