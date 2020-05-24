@@ -1,7 +1,7 @@
 # Image-Compression-K-Means
 
 - So this project basically does the compression of images based on colors.
-- By millions of colors in images this will reduce that colors to your desired value of colors
+- By millions of colors in images this will reduce that colors to your desired value of colors.
 - Currently I setted maximum of 256 values but you can change that by doing simple modification in code
 
 
